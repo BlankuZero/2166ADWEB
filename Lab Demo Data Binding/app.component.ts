@@ -1,6 +1,6 @@
 export class AppComponent {
-  title = 'This string is interpolated';
-  clientName = 'Adrian';
+  title = 'The String is Interpolated';
+  clientName = 'Louise Salonga';
   appliedCSS = 'green';
   notAppliedCSS = false;
   myColor = 'red';  
